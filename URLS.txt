@@ -1,0 +1,4 @@
+http://www.martiniglesias.eu/blog/validacion-personalizada-de-formulario/29
+http://www.w3schools.com/sql/sql_join_inner.asp
+http://manuales.guebs.com/php/session.configuration.html
+http://www.arsys.info/programacion/nuevos-parametros-php-en-tu-panel-de-control/
